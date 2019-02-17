@@ -1,0 +1,1 @@
+A ball rolls down a ramp for 15 seconds. If the initial velocity of the ball was 0.8 m/sec and the final velocity was 7 m/sec, what was the acceleration of the ball ? 

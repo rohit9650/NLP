@@ -1,0 +1,4 @@
+A driver of a car traveling at -15 m/s applies the brakes, causing a uniform acceleration
+of +2 m/s
+2 . If the brakes are applied for 2.5 seconds what is the velocity of the car at the
+end of the braking period? How far has the car moved during the braking period?

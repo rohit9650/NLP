@@ -1,0 +1,1 @@
+A car with an initial velocity of +6m/s accelerates at a rate 2 m/s2. Find the cars final velocity after it travels 7 m from its initial position 

@@ -1,0 +1,1 @@
+A projectile is shot upwards at 189 m/s from the height of 20 m off the ground. How long will it take the projectile to hit the ground?

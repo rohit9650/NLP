@@ -1,0 +1,1 @@
+An object dropped on planet X falls 64 m in 4 seconds. Find the acceleration due to gravity on planet X.

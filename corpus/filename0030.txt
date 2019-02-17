@@ -1,0 +1,1 @@
+A jalopy is decelerated from 48m/s to 12m/s over 5 s. What is the displacement of the jalopy during this time?

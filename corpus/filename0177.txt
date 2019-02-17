@@ -1,0 +1,1 @@
+A stone is dropped into a deep well and is heard to hit the water 3.41 s after being dropped. Determine the depth of the well.  (hint: the depth of the well is the same as the distance the stone fell)

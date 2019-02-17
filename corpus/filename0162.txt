@@ -1,0 +1,1 @@
+Otto Emissions is driving his car at 25.0 m/s. Otto accelerates at 2.0 m/s2 for 5 seconds. Otto then maintains a constant velocity for 10 more seconds. Determine the distance Otto traveled during the entire 15 seconds. (Consider using a velocity-time graph.) 

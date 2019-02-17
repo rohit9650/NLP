@@ -1,0 +1,1 @@
+ driver traveling 40 km/h sees a child run onto the road 13 m ahead of his jalopy. He applies the brakes, and the jalopy decelerates uniformly at 8.0 m/s/s. The driver’s reaction time is 0.25 s. Will the jalopy hit the child? 

@@ -1,0 +1,1 @@
+An object does free fall motion. It hits the ground after 4 seconds. Calculate the velocity of the object after 3 seconds and before it hits the ground. What can be the height it is thrown? 

@@ -1,0 +1,3 @@
+A car with an intial speed of 23.7 km/hr accelerates at a uniform rate of 0.92 m/s
+2 for
+3.6 sec. Find the final speed and displacement of the car during this time.

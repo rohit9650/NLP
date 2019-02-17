@@ -1,0 +1,1 @@
+An aircraft has a liftoff speed of 120 km/hr. a) What minimum constant acceleration does this require if the aircraft is to be airborne after a take off run of 240 m? How long does it take the aircraft to become airborne?

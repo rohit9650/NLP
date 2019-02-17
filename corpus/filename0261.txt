@@ -1,0 +1,1 @@
+A ball is thrown from a bridge horizontally. It spends 8s in air and has a range of 50m. How tall was the bridge? How fast was the ball traveling vertically just before it hit? How fast was the ball traveling horizontally just before it hit?

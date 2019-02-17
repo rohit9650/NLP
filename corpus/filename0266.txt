@@ -1,0 +1,1 @@
+A rocket  is fired  vertically  and  ascends  with  a constant vertical acceleration   of 20 m/s2   for 1.0 min. Its fuel is then all used and  it continues   as  a free-fall   particle.   (a)  What  is the  maxi- mum  altitude  reached?  (b) What  is the total time elapsed  from take off  until  the rocket  strikes  the Earth?  (Ignore  the variation of g with  altitude). 

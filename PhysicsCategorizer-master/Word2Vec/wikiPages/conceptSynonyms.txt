@@ -1,0 +1,136 @@
+surface_area area
+angular_frequency
+coefficient_of_friction
+resistance ohm
+number_of_turns turns
+parallel_capacitance
+entropy
+voltage volt
+speed velocity pace m/s
+electric_potential potential_energy potential electrostatic_potential
+initial_area area
+flow_velocity flow
+density
+speed_of_light
+angular_acceleration
+spectral_radiance radiance
+diffusivity
+momentum
+speed_of_sound
+electric_potential_energy potential_energy potential
+thermal_conductivity conductivity
+permitivity
+magnetic_field
+coulomb's_constant
+initial_pressure pressure
+vacuum
+magnetic_flux
+linear_thermal_expansion_coefficient expansion_coefficient thermal_coefficient
+elastic_potential_energy potential_energy potential
+electric_field
+drag_force
+initial_angular_velocity angular_velocity
+current_density
+froude_number
+series_resistance
+force newton
+low_frequency frequency
+weight mass kg
+energy
+surface_tension
+displacement distance length interval space gap
+intensity
+frequency
+radius
+wavelength
+interference_fringe_width fringe_width
+spring_constant stiffness
+conductivity
+heat_flow_rate heat_flow
+angular_velocity
+initial_length length
+current ampere
+probability_density
+volume_flow_rate volume_flow
+latent_heat
+heat_capacity
+focal_length
+power
+gravitational_potential_energy gravitational energy potential energy gravity
+mass_flow_rate
+efficiency
+series_capacitance
+capacitor
+relative_permitivity
+final_volume
+pressure
+time_period
+length distance range
+gravitational_force gravity
+emissivity
+external_field field gravity gravitational_field
+initial_volume volume capacity cubic
+shear_modulus shear modulus 
+thermal_efficiency efficiency thermal
+electric_flux flux
+height elevation altitude vertical
+final_angular_velocity angular_velocity
+angular_momentum
+pressure_level pressure
+volume_thermal_expansion_coefficient expansion_coefficient thermal_coefficient
+expansion_coefficient
+thermal_coefficient
+angle_of_incidence
+orbital_speed speed
+temperature kelvin celsius
+young's_modulus modulus
+area
+charge
+capacitance
+magnification
+bulk_modulus modulus
+molecular_speed speed
+volume capacity cubic
+drag_coefficient
+heat 
+moment_of_inertia moment
+impulse
+gravitational_field gravity
+initial_angle angle
+distance displacement length height interval space gap meter metre
+potential_energy energy potential
+object
+work
+angle_of_refraction
+potential_difference potential
+moles mole
+resistivity
+reynolds_number
+torque
+final_angle angle
+refractive_index
+mach_number
+Intensity_level
+acceleration accelerate
+angle
+gravity
+molecular_kinetic_energy kinetic_energy molecular_energy
+molecular_energy
+final_velocity velocity
+high_frequency frequency
+kinetic_energy energy
+initial_velocity velocity
+beat_frequency frequency beat
+magnetic_constant
+viscosity
+normal_force normal force
+position location place spot
+escape_speed speed
+parallel_resistance
+magnetic_flux_density flux_density
+flux_density
+mass
+gravitational_potential potential
+time seconds
+area_thermal_expansion_coefficient expansion_coefficient thermal_coefficient
+velocity speed pace m/s

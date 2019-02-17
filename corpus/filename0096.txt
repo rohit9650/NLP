@@ -1,0 +1,1 @@
+Suppose the tourist in question #1 instead threw the rock with an initial velocity of 8.0 m/s [down]. Determine the velocity and displacement of the rock at 4.0 s (Remember the vi is down and must become a -8.0 m/s)

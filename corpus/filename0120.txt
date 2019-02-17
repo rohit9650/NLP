@@ -1,0 +1,4 @@
+In a classic ``Seinfeld'' episode, Jerry races one of his old high school friends. Upon hearing a car backfire, Jerry leaves 0.5 seconds before the other guy. Jerry's maximum acceleration is 2.00 m/s/s. His friend's is 2.20 m/s/s (this link may help). 
+a.  How long will it take the friend to overtake Jerry? 
+b.  How far from the start are they when they are even? 
+c.  What are their respective velocities when they are even?

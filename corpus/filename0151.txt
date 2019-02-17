@@ -1,0 +1,1 @@
+A car starts from rest at a stop light and reaches 20 m/s in 3.5 s. Determine the acceleration of the car.

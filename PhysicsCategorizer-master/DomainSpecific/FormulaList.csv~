@@ -1,0 +1,145 @@
+velocity, velocity, distance, time 
+acceleration, acceleration, velocity, time 
+equations of motion 1, initial velocity, final velocity, acceleration, time 
+equations of motion 2, distance, position, initial velocity, acceleration, time 
+equations of motion 3, initial velocity, final velocity, acceleration, distance, position 
+average velocity, initial velocity, final velocity 
+newton's second law 1, force, mass, acceleration 
+newton's second law 2, force, momentum, time 
+weight, weight, mass, gravity 
+dry friction, force, coefficient of friction, normal force 
+centripetal acceleration 1, acceleration, velocity, radius 
+centripetal acceleration 2, acceleration, angular velocity, radius 
+momentum, momentum, mass, velocity 
+impulse, impulse, force, time 
+impulse-momentum 1, force, time, mass, velocity 
+impulse-momentum 2, force, time, momentum 
+work, work, force, distance 
+work-energy, force, distance, energy 
+kinetic energy, kinetic energy, mass, velocity 
+potential energy 1, force, distance, potential energy 
+potential energy 2, potential energy, mass, height, gravity 
+efficiency, efficiency, work, energy 
+power 1, power, work, time 
+power 2, power, force, velocity 
+angular velocity 1, angular velocity, angle, time 
+angular velocity 1, velocity, angular velocity, radius 
+angular acceleration 1, angular acceleration, angular velocity, time 
+angular acceleration 2, angular acceleration, angular velocity, radius, acceleration 
+equations of rotation 1, initial angular velocity, final angular velocity, angular acceleration, time 
+equations of rotation 2, initial angular velocity, initial angle, final angle, angular acceleration, time 
+equations of rotation 3, initial angular velocity, final angular velocity, angular acceleration, initial angle, final angle 
+average angular velocity, initial angular velocity, final angular velocity 
+2nd law for rotation 1, torque, moment of inertia, angular acceleration 
+2nd law for rotation 2, torque, angular momentum, time 
+torque, Torque, radius, force 
+moment of inertia, moment of inertia, mass, radius 
+rotational work, torque, angle, work 
+rotational power, torque, angular velocity, power 
+rotational kinetic energy, energy, moment of inertia, angular velocity 
+angular momentum 1, angular momentum, radius, momentum 
+angular momentum 2, angular momentum, moment of inertia, angular velocity 
+angular momentum 3, angular momentum, mass, radius, velocity 
+gravitational force, gravitational force, mass, radius 
+gravitational field, gravitational field, mass, radius 
+gravitational potential energy, gravitational potential energy, mass, radius 
+gravitational potential, gravitational potential, mass, radius 
+orbital speed, orbital speed, mass, radius 
+escape speed, escape speed, mass, radius 
+hooke's law, spring constant, distance 
+elastic potential energy, elastic potential energy, distance, spring constant 
+simple harmonic oscillation, time period, mass, spring constant 
+simple pendulum, time period, length 
+frequency, frequency, time period 
+angular frequency, angular frequency, frequency 
+density, density, mass, volume 
+pressure, pressure, force, area 
+pressure in a fluid, pressure, initial pressure, density, height 
+buoyancy, density, initial volume, final volume 
+mass flow rate, mass flow rate, mass, time 
+volume flow rate, volume flow rate, volume, time 
+mass continuity, density, area, velocity 
+volume continuity, area, velocity 
+bernoulli's equation, pressure, density, height, velocity 
+dynamic viscosity, viscosity, force, area, velocity, height 
+kinematic viscosity, diffusivity, viscosity, density 
+aerodynamic drag, drag force, density, velocity, area, drag coefficient 
+mach number, speed of sound, flow velocity, mach number 
+reynolds number, reynolds number, density, viscosity, length, velocity 
+froude number, froude number, flow velocity, external field 
+young's modulus, young's modulus, force, area, length 
+shear modulus, shear modulus, force, area, length, displacement 
+bulk modulus, bulk modulus, force, area, volume 
+surface tension, surface tension, force, length 
+solid expansion 1, linear thermal expansion coefficient, length, temperature, initial length 
+solid expansion 2, area thermal expansion coefficient, area, temperature, initial area 
+liquid expansion, volume thermal expansion coefficient, volume, temperature, initial volume 
+heat, heat, mass, heat capacity, temperature 
+latent heat, latent heat, heat, mass 
+ideal gas law, pressure, volume, temperature, moles 
+maxwell boltzmann, mass, probability density, temperature, speed 
+molecular kinetic energy, molecular kinetic energy, temperature 
+molecular speed, molecular speed, temperature, mass 
+heat flow rate, heat flow rate, heat, time 
+thermal conduction, heat, thermal conductivity, area, temperature, length 
+stefan-boltzmann law, power, area, emissivity, temperature 
+wein displacement law, wavelength, temperature, spectral radiance 
+internal energy, energy, mole, temperature 
+thermodynamic work, work, pressure, volume 
+1st law of thermodynamics, energy, heat, work 
+entropy, entropy, heat, temperature 
+thermal efficiency, thermal efficiency, work, heat 
+carnot cycle efficiency, thermal efficiency, temperature 
+periodic waves, velocity,frequency,wavelength 
+beat frequency, beat frequency, high frequency, low frequency 
+intensity, intensity, power, area 
+intensity level, intensity level, intensity
+pressure level, pressure level,pressure 
+interference fringes, interference fringe width,wavelength, angle 
+index of refraction, speed of light, vacuum,refractive index
+snell's law, angle of incidence,angle of refraction,refractive index 
+critical angle,angle of incidence,refractive index 
+image location, focal length, object, distance, image
+image size, magnification, object, height, image, distance 
+spherical mirrors, focal length, radius 
+coulomb's law, coulomb's constant,charge,distance,force 
+electric field definition, charge,electric field, force 
+electric field around charges, coulomb's constant,charge,distance 
+field and potential, Electric field, potential difference, distance
+electric potential definition, potential difference,charge, electric potential energy 
+electric potential around charges, charge, distance,coulomb's constant,electric potential 
+capacitance, charge,voltage,capacitance 
+plate capacitor, capacitance,surface area,distance,relative permitivity 
+cylindrical capacitor, capacitance,length,radius, distance,relative permitivity 
+spherical capacitor, capacitance,relative permitivity,radius,distance 
+capacitive potential energy 1, energy,charge,voltage 
+capacitive potential energy 2, energy,charge,capacitor,capacitance 
+capacitive potential energy 3, energy,voltage,capacitor,capacitance 
+electric current , current,charge 
+ohm's law 1, current, voltage,resistance 
+ohm's law 2, current density, resistivity,electric field 
+ohm's law 3, current density, conductivity,electric field 
+resistivity-conductivity, resistivity,conductivity 
+electric resistance, resistivity,area,resistance,length 
+electric power 1, power,voltage,current 
+electric power 2, power,voltage,resistance 
+electric power 3, power,current,resistance 
+resistors in series, series resistance,resistance 
+resistors in parallel, parallel resistance,resistance 
+capacitors in series, series capacitance,capacitance 
+capacitors in parallel, parallel capacitance,capacitance 
+magnetic force,charge , force, charge,velocity,magnetic field 
+magnetic force,current , force,charge,length,magnetic field,current 
+biot savart law, magnetic field,current,magnetic constant,length,position
+solenoid, magnetic flux density,magnetic constant,number of turns,current, length 
+straight wire, magnetic field, magnetic constant, current,distance 
+parallel wire, force,length,current,distance,magnetic constant 
+electric flux, electric flux, electric field,area 
+magnetic flux, magnetic flux,magnetic field,area 
+motional emf, force,velocity,magnetic field,length 
+induced emf, force,magnetic field, area,magnetic flux 
+gauss's law, electric flux, electric field,area,permitivity 
+no one's law, magnetic field,area 
+faraday's law, electric field,magnetic flux 
+ampere's law, magnetic field, current,magnetic constant,permitivity 
+dummy, molecular energy, flux density, thermal coefficient,expansion coefficient,electrostatic potential,fringe width,heat flow,volume flow

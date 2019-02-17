@@ -1,0 +1,1 @@
+a Train travelled 100 km at speed of 133km/h, how long did the train move? 

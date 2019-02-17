@@ -1,0 +1,1 @@
+A kangaroo is capable of jumping to a height of 2.62 m. Determine the takeoff speed of the kangaroo.

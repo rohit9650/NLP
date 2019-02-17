@@ -1,0 +1,1 @@
+Rennata Gas is driving through town at 25.0 m/s and begins to accelerate at a constant rate of -1.0 m/s2 . Eventually Rennata comes to a complete stop. Represent Rennata's accelerated motion by sketching a velocity-time graph. Use kinematic equations to calculate the distance which Rennata travels while decelerating. Then use the velocity-time graph to determine this distance. 

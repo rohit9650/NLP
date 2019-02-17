@@ -1,0 +1,1 @@
+The velocity of a body increases from 2 m/s to 18 m/s in 8 s. Determine the acceleration of the body. 

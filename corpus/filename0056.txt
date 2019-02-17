@@ -1,0 +1,1 @@
+A ball is thrown upward from a position (y0)above the ground  with a velocity of 16 m/s. How long will it take for the stone to reach a point 10 m above the ground on its way

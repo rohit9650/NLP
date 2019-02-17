@@ -1,0 +1,1 @@
+ The boy drops the ball from a roof of the house which takes 3 seconds to hit the ground. Calculate the velocity before the ball crashes to the ground 

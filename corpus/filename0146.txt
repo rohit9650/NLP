@@ -1,0 +1,1 @@
+A kangaroo is moving with a velocity of 5.0 m/s at an angle of 30º North of East. The kangaroo, 4.0 seconds later, is moving with a velocity of 6.0 m/s at an angle of 45º South of East. What is the kangaroo’s average acceleration? 

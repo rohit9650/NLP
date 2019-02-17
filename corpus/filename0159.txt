@@ -1,0 +1,1 @@
+An engineer is designing a runway for an airport. Several planes will use the runway and the engineer must design it so that it is long enough for the largest planes to become airborne before the runway ends. If the largest plane accelerates at 3.30 m/s2 and has a takeoff speed of 88.0 m/s, then what is the minimum allowed length for the runway? 

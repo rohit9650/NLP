@@ -1,0 +1,1 @@
+A rocket is fired vertically upward with an initial velocity of 29 m/s. find the maximum altitude of the rocket take g=10m/s^2

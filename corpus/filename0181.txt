@@ -1,0 +1,1 @@
+A kangaroo can jump over an object of height 2.5 meters. (a) Calculate the vertical speed when it leaves the ground and (b) how long is it in the air?

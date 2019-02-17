@@ -1,0 +1,1 @@
+An automobile with an initial speed of 4.30 m/s accelerates uniformly at the rate of 3.0 m/s2.  Find the final speed and the displacement after 5.0 s. 

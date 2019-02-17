@@ -1,0 +1,1 @@
+19. A projectile is shot from the ground at an angle of 60 degrees with respect to the horizontal, and it lands on the ground 5 seconds later. Find: a. the horizontal component of initial velocity b. the vertical component of initial velocity c. Find its initial speed

@@ -1,0 +1,1 @@
+The Earth orbits the Sun at a distance of 150000000 km. How long does it take light from  the Sun to reach the Earth?  Speed of light in space = 3.0E8 m/s.

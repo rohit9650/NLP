@@ -1,0 +1,1 @@
+21. Find the minimum initial speed of a champagne cork that travels a horizontal distance of 11 meters.

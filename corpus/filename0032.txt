@@ -1,0 +1,1 @@
+A jalopy travels on a long straight level road at 50 km/hr and then speeds up to 90 km/hr in 15 seconds. Calculate the jalopy's acceleration in m/s/s.

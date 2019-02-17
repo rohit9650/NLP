@@ -1,0 +1,1 @@
+A jogger with a constant velocity of 4.0 meters/second runs by a stationary dog. After 1 second, the dog decides to chase the jogger. The dog accelerates at 1.5 m/s/s. (this link may help)  a. How long (time) does it take the dog to catch the jogger?  b. How far away from the spot where the dog was sitting has the jogger gone when she is caught by the dog?

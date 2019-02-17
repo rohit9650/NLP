@@ -1,0 +1,1 @@
+A ball is thrown upward from a position  (y0) above the ground with a velocity of 8 m/s. Find y0 if it took 3.0 seconds for the ball to hit the ground.

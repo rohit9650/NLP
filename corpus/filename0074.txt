@@ -1,0 +1,1 @@
+A robot probe drops a camera off the rim of a 239 m high cliff on Mars, where the free-fall acceleration is –3.7 m/s^2. a. Find the time required for the camera to reach the ground. b. Find the velocity with which it hits the ground.

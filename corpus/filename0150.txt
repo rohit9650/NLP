@@ -1,0 +1,1 @@
+A car starts from rest and after 20 seconds its velocity becomes 108 kmh. Find the acceleration of the car.

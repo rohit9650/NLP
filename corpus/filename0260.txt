@@ -1,0 +1,1 @@
+A ball is dropped from the roof of a tower of height h.The total distance covered by it in the last second of its motion is equal to the distance covered by it in first three seconds.The value of h is (g=10m/s2)

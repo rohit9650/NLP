@@ -1,0 +1,1 @@
+Two markers separated by 0.30 km placed on a road. A gas guzzler passed the first marker with a velocity of 5.0 m/s [E] and passed the second marker with a velocity of 33.0 m/s [E]. Calculate the car’s average acceleration. 

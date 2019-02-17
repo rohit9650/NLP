@@ -1,0 +1,1 @@
+What is the smallest distance, in meters, needed for an airplane touching the runway with a velocity of 360 km/h and an acceleration of -10 m/s2 to come to rest? 

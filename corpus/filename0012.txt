@@ -1,0 +1,1 @@
+A baseball is popped straight up into the air and has a hang-time of 6.25 s. Determine the height to which the ball rises before it reaches its peak. (Hint: the time to rise to the peak is one-half the total hang-time.)

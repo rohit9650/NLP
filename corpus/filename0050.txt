@@ -1,0 +1,1 @@
+The car which is initially at rest has an acceleration 7m/s² and travels 20 seconds. Find the distance it covers during this period. 

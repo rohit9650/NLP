@@ -1,0 +1,1 @@
+A dragster accelerates to a speed of 112 m/s over a distance of 398 m. Determine the acceleration (assume uniform) of the dragster.

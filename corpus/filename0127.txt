@@ -1,0 +1,1 @@
+A truck on a straight road starts from rest and accelerates at 2.0 m/s 2 until it reaches a speed of 20 m/s. Then the truck travels for 20 s at a constant speed until the brakes are applied, stopping the car in a uniform manner in an additional 5.0 s. How long is the truck in motion and what is its average velocity during the motion? 

@@ -1,0 +1,1 @@
+A driver of a car traveling at 15.0 m/s applies the brakes, causing a uniform acceleration of -2.0 m/s2.  How long does it take the car to accelerate to a final speed of 10.0 m/s?  How far has the car moved during the braking period? 

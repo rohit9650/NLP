@@ -1,0 +1,1 @@
+A car starts from rest and accelerates uniformly for 5.21 seconds over a distance of 110 m.  Determine the acceleration of the car.

@@ -1,0 +1,1 @@
+A car accelerates at a rate of 0.6 m/s2. How long does it take for this car to go from a speed of 55 mi/h to 60 mi/h?

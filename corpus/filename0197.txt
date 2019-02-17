@@ -1,0 +1,1 @@
+The velocity of a body decreases from 25 m/s to 5 m/s in 4 s. Determine the retardation of the body. 

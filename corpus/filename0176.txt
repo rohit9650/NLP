@@ -1,0 +1,1 @@
+A plane has a take-off speed of 88.3 m/s and requires 1365 m to reach that speed. Determine the acceleration of the plane and the time taken to reach the take-off speed.

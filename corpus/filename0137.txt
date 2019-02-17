@@ -1,0 +1,1 @@
+A UFO is traveling with a velocity of 3250 m/s. Suddenly the retro rocket is fired, the UFO slows to a stop with an acceleration whose magnitude is equal to 10m/s 2 . What is the velocity of the UFO when the displacement of the craft is 215 km, relative to the point where the retro rocket began firing? 

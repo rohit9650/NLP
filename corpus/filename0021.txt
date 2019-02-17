@@ -1,0 +1,1 @@
+ A ball is rolled at a velocity of 12 m/sec. After 36 seconds, it comes to a stop. What is the acceleration of the ball?

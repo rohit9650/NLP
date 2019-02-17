@@ -1,0 +1,1 @@
+If I drop a watermelon from the top of one of the tower dorms at CSU, and it takes 3.34 seconds to hit the ground, calculate how tall the building is in meters and then convert into feet.

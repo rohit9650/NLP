@@ -1,0 +1,1 @@
+A blimp is hovering above the ground. When the pilot drops a sandbag overboard, the blimp rises with a constant velocity of 2 m/s. At the moment the sandbag hits the ground, the blimp is 50 m above the ground. a. How far above the ground was the blimp when the sandbag was dropped? When the sandbag is halfway to the ground, what is its acceleration?

@@ -1,0 +1,1 @@
+A hot-air baloon was hovering over a large public park. The operator of the baloon then makes the baloon begin to rise at the constant rate of 0.8 m/s. At some height fron the ground, the operator drops the rock from the basket. The rock takes 10.3 seconds to hit the gound. How high was the rock when it was released and what was its maximum height?

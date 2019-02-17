@@ -1,0 +1,1 @@
+A car has an acceleration of 3m/s². If the initial velocity of the car is 5 m/s, determine: (a) How far the car travels in 6 s; (b) How far the car has travelled when it reaches a velocity of 30 m/s. 

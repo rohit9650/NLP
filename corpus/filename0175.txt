@@ -1,0 +1,1 @@
+A bullet is moving with a speed of 367 m/s when it enters a lump of moist clay. The bullet penetrates a distance of 0.0621 m. Determine the acceleration of the bullet while moving into the clay. 

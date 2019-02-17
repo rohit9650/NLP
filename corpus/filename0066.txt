@@ -1,0 +1,1 @@
+A car accelerates uniformly from 0 to 72 km/h in 11.5 seconds. What is the acceleration of the car in m/s?  What is the position of the car by the time it reaches the velocity of 72 km/h?

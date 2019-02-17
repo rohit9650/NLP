@@ -1,0 +1,1 @@
+A meteoroid changed velocity from 1.0 km/s to 1.8 km/s in 0.03 seconds. What is the acceleration of the meteoroid?

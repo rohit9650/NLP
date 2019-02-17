@@ -1,0 +1,1 @@
+From t = 0 to t = 4.21 min, a man stands still, and from t = 4.21 min to t = 8.42 min, he walks briskly in a straight line at a constant speed of 1.91 m/s. In the time interval 1.00 min to 5.21 min what are a. his average velocity  b. his average acceleration?

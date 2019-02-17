@@ -1,0 +1,1 @@
+An object falls from a high building and hits the ground in 9.0 seconds. Ignoring air resistance, what is the distance that it fell? 

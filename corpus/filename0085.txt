@@ -1,0 +1,1 @@
+Wil-E-Coyote drops a bowling ball off a cliff to try to catch the Roadrunner. The cliff is 132m high. How long does it take the ball to fall to the ground? What is its impact velocity? How far does it fall in the first 3.0 seconds? How fast is it going at the end of 3.0 seconds? How long would it take the same ball to fall if the cliff was on the moon (g = 1.63 m/s2)?

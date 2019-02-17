@@ -1,0 +1,1 @@
+On the moon, a feather is dropped from a height of 1.40 m. The acceleration of gravity on the moon is -1.67 m/s2. Determine the time it takes for the feather to fall to the surface of the moon.

@@ -1,0 +1,1 @@
+I drop a penny from the top of the tower at the front of Fort Collins High School and it takes 1.85 seconds to hit the ground. Calculate the velocity in m/s after 1.10 seconds of freefall and calculate the velocity at impact in mi/hr.

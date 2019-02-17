@@ -1,0 +1,1 @@
+You are walking in Paris alongside the Eiffel Tower and suddenly a croissant smacks you on the head and knocks you to the ground. From your handy dandy tourist guidebook you find that the height of the Eiffel Tower is 300.5 m. If you neglect air resistance, calculate how many seconds the croissant dropped before it tagged you on the head.

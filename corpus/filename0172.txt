@@ -1,0 +1,1 @@
+An ant craws 120 cm east in 15 seconds, then turns and crawls 120 cm west in 24 more seconds.  What is the ant’s average speed and what is its average velocity?

@@ -1,0 +1,1 @@
+An electron is emitted with a velocity of 5e+6 m/s. It is accelerated by an electric field in the of initial velocity at 3e+14 m/s2. If the final velocity is 7e6 m/s, calculate the distance covered by the electron

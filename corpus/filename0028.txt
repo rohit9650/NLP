@@ -1,0 +1,1 @@
+A jalopy with an initial speed of 23.7 km/h accelerates at a uniform rate of 0.92 m/s2 for 3.6 s. Find the final speed and the displacement of the jalopy during this time.

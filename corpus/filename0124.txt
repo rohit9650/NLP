@@ -1,0 +1,9 @@
+At a recent regatta in California, The San Diego Crew Classic, results from the Men's Cal-Visitors Cup Grand Final with their times are as follows: 
+Oregon State U 6:17.12 
+U.C. San Diego 6:24.55 
+Columbia 6.25.71 
+U.C. Irvine 6:27.37 
+Wichita State 6:30.34 
+U.C. Santa Barbara 6:31.56 
+ 
+The course is 2000m long. Assuming constant velocity for all boats, how far behind OSU In meteres, was each boat when OSU crossed the finish line?

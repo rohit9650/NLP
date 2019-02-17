@@ -1,0 +1,1 @@
+ A peso is dropped into a well and it falls for 3 seconds before hitting the water. What is the peso’s average speed during its 3 second drop? 

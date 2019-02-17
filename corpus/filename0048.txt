@@ -1,0 +1,1 @@
+John throws the ball straight upward and after 1 second it reaches its maximum height then it does free fall motion which takes 2 seconds. Calculate the maximum height and velocity of the ball before it crashes the ground. 

@@ -1,0 +1,1 @@
+12. A projectile has an initial velocity of 15.0 m/s at an angle of 30 degrees above the horizontal. What is the location of the projectile 2.0 seconds later?

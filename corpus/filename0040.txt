@@ -1,0 +1,1 @@
+ The space shuttle releases a space telescope into orbit around the earth. The telescope goes from being stationary to traveling at a speed of 1700 m/s in 25 seconds. What is the acceleration of the satellite?

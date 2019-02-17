@@ -1,0 +1,6 @@
+A car traveling initially at +7.0 m/s accelerates at the rate of +0.80 m/s
+2 for a distance
+of 245 m.
+a) What is its velocity at the end of the acceleration? 
+What is its velocity after it accelerates for 125 m?
+What is its velocity after it accelerates for 67 m?

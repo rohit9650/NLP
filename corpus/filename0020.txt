@@ -1,0 +1,1 @@
+You start walking from a point on a circular field of radius 0.5 km and 1 hour later you are at the same point. a) What is your average speed for the whole journey? b) What is your average velocity for the whole journey?

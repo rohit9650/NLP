@@ -1,0 +1,1 @@
+A bird watcher meanders through the woods, walking 0.684 km due east, 0.486 km due south, and 3.56 km in a direction 61.7 degrees north of west. The time required for this trip is 1.124 h. Determine the bird watcher’s (a) displacement and (b) average velocity. 

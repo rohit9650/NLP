@@ -1,0 +1,1 @@
+A car accelerates from 0 km/h to 100 km/h in 5 seconds. It can decelerate at 5 m/s, if the driver applies the brakes fully. What is the acceleration of the car?

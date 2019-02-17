@@ -1,0 +1,1 @@
+Chuck Wagon travels with a constant velocity of 0.5 mile/minute for 10 minutes. Chuck then decelerates at -.25 mile/min2 for 2 minutes. Determine the total distance traveled by Chuck Wagon during the 12 minutes of motion. (Consider using a velocity-time graph.) 

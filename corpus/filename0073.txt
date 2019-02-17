@@ -1,0 +1,1 @@
+A cannonball is shot upwards from the edge of a cliff with a speed of 10m/s. It lands on the ground below the cliff 3.0 seconds later. We can ignore air resistance.What is the displacement of the cannonball? 

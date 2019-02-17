@@ -1,0 +1,64 @@
+1.
+
+ ("( meter[s]?\/second)$|( meter[s]?\/second)(?<SPACE1>[\s.?,]?)|( meter\/sec)$|( meter\/sec)(?<SPACE2>[\s.?,]?)|( m\/seccond)$|( m\/second)(?<SPACE3>[\s\.\?,]?)|( m\/sec)$|( m\/sec)(?<SPACE4>[\s\.\?,]?)|( m\/s)$|( m\/s)(?<SPACE5>[\s\.\?,]?)|( meter\/s)$|( meter\/s)(?<SPACE6>[\s.?,]?)|( ms-1)|( m s-1)|( ms\^-1)|(meter[s]? per second[s]?)"," <m/s>${SPACE1}${SPACE2}${SPACE3}${SPACE4}${SPACE5}${SPACE6} ")
+
+A sample RegeReplace tuple used in AIstein. The variations in the representations were captured using [Number][Unit] bigrams. The variations in the units found automatically and added to the RegexReplace tuple.
+
+You may try a similar one for other units       
+
+
+
+
+
+2. The standard representation of keywords. The synonyms are mapped to the standard keywords
+
+ let keywordSynonyms = dict 
+
+                                ["far", "distance";
+
+                                "distance",  "distance";
+
+                                 "walk", "distance";
+
+                                 "jump","distance";
+
+                                "range","distance";
+
+                               "length","distance";
+
+                                "depth","distance";
+
+                                "height","distance";
+
+                                "high","distance";
+
+                                "run", "distance";
+                                "displacement","distance";
+
+ 
+                                "altitude","distance";
+
+                                "position","distance";
+
+                                "apex","distance";
+
+
+                                "fast", "speed";
+
+                                "<g>","acceleration";
+
+                                "deceleration","acceleration"
+
+
+                                "long",  "time";
+                                "seconds","time";
+
+                                "hang time","time";
+
+                                "hangtime","time";
+
+                                "hang-time","time";
+
+                                "in the air","time";
+
+                                ]
